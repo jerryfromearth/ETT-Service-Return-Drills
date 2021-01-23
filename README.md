@@ -1,4 +1,4 @@
-# Eleven Table Tennis: Service Return Drills by SolidSlime
+# Eleven Table Tennis: Service Return Drills
 
 ## Description
 
@@ -79,6 +79,13 @@ If you are feeling brave, try enabling several "random" drills at the same time,
 5.3.1 Rightspin left->random
 5.3.2 Rightspin right->random
 ```
+
+## Contribution
+
+Feel free to send me suggestions! You can:
+
+- find me on discord (SolidSlime#2677)
+- create an issue/pull request in [this project](https://github.com/jerryfromearth/ETT-Service-Return-Drills)
 
 ## Shoutout
 
