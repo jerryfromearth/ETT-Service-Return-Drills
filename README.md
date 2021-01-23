@@ -22,13 +22,14 @@ For example, if you find a human player's certain serve is hard to return, you c
 Replace the BallLauncherSettings.json in the game settings folder.  
 If the above line isn't self-explanatory, please read the instructions [written by Alex](https://drive.google.com/drive/folders/1srTUkw5GNiDqjvF3wM9KYE8EKEUad104).
 
-## About randomness
+## Tips: timeScale
 
-Every drill (except the "random" drills) have limited variations, to help the player to "solidify" the technique for a certain (spin+direction) combination.  
-On the other hand, the "random" drills have bigger variations, so they can be used to:
+Since these drills are all about serves, it's recommended to **lower "timeScale" value** (which can be found in the general settings of ball machine UI) to below 1, so that you have time to return to the starting position, relax and prepare to return the next serve.
 
-1. Shorten reaction time.
-1. Mimic human player behavior.
+## Tips: randomness
+
+Every drill (except the "random" drills) have limited variations, to help the player to "lock down" the technique for a certain serve.  
+On the other hand, the "random" drills have bigger variations, so they can be used to mimic human player behavior.
 
 If you are feeling brave, try enabling several "random" drills at the same time, as well as "shuffle"!
 
