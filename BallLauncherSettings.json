@@ -2,7 +2,7 @@
   "settingsVersion":"1",
   "showBallMachineLauncherAlways":"True",
   "ballCount":"5",
-  "timeScale":"1.89288032054901",
+  "timeScale":"0.7",
   "shuffle":"False",
   "drills":{
     "__currentPreset__":"default",
@@ -79,7 +79,7 @@
             "verticalAngle":"-10.0695037841797"
           },
           "spread":{
-            "horizontalAngle":"9.14180278778076",
+            "horizontalAngle":"6.14928913116455",
             "verticalAngle":"0"
           }
         },
@@ -123,8 +123,8 @@
         },
         "direction":{
           "raw":{
-            "horizontalAngle":"-26.629810333252",
-            "verticalAngle":"-4.31815338134766"
+            "horizontalAngle":"-25.2165374755859",
+            "verticalAngle":"-7.22394561767578"
           },
           "spread":{
             "horizontalAngle":"3.61040592193604",
@@ -220,10 +220,10 @@
         "direction":{
           "raw":{
             "horizontalAngle":"11.755973815918",
-            "verticalAngle":"-4.49745941162109"
+            "verticalAngle":"-8.49649810791016"
           },
           "spread":{
-            "horizontalAngle":"6.49143171310425",
+            "horizontalAngle":"5.97862386703491",
             "verticalAngle":"0"
           }
         },
@@ -795,17 +795,17 @@
         },
         "direction":{
           "raw":{
-            "horizontalAngle":"0.544502258300781",
+            "horizontalAngle":"1.13041687011719",
             "verticalAngle":"-8.73859405517578"
           },
           "spread":{
-            "horizontalAngle":"4.28257465362549",
+            "horizontalAngle":"3.44700860977173",
             "verticalAngle":"0"
           }
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
@@ -853,7 +853,7 @@
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
@@ -901,7 +901,7 @@
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
@@ -949,7 +949,7 @@
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
@@ -997,7 +997,7 @@
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
@@ -1045,7 +1045,7 @@
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
@@ -1093,7 +1093,7 @@
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
@@ -1114,7 +1114,7 @@
           }
         }
       },
-      "3.3.2 Backspin(L) Right->random":{
+      "3.3.2 Backspin(L) right->random":{
         "Description":"",
         "isActive":"False",
         "position":{
@@ -1141,7 +1141,7 @@
         },
         "spin":{
           "raw":{
-            "topBottom":"-52.607967376709",
+            "topBottom":"-22.7061462402344",
             "leftRight":"0",
             "screw":"0"
           },
