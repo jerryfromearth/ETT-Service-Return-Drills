@@ -19,8 +19,13 @@ For example, if you find a human player's certain serve is hard to return, you c
 
 ## How to use
 
-Replace the BallLauncherSettings.json in the game settings folder.  
-If the above line isn't self-explanatory, please read the instructions [written by Alex](https://drive.google.com/drive/folders/1srTUkw5GNiDqjvF3wM9KYE8EKEUad104).
+Replace the BallLauncherSettings.json in the game's settings folder.
+
+- If you run ETT on Oculus Quest, the folder is at `This PC\Quest\Internal shared storage\Android\data\quest.eleven.forfunlabs\settings`.  
+  (Change `quest.eleven.forfunlabs` accordingly if you use the preview or beta version of ETT.)
+- If you run ETT on PC, the folder is at either `Oculus\Software\for-fun-labs-eleven-table-tennis-vr\settings` (for Oculus store) or `SteamLibrary\steamapps\common\Eleven Table Tennis VR\settings` (for Steam).
+
+If the above text isn't self-explanatory, please read the full instructions [written by Alex](https://drive.google.com/drive/folders/1srTUkw5GNiDqjvF3wM9KYE8EKEUad104).
 
 ## Tips: timeScale
 
