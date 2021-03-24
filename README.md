@@ -4,20 +4,28 @@
 
 This is a list of "ball machine drills" that aim at improving the service return quality of [Eleven Table Tennis](https://elevenvr.com/) players.
 
-The drills are organized in three indexed levels:
-
-- Spin Type
-- Serve Location
-- Receive Location
-
-Example:  
-"2.1.3 Backspin(S) left->right" is a (Short) backspin serve launched from the player's left side to right side.  
-(There's a list of all the drills at the end of this README.)
-
 These drills definitely do not cover all the serves made by human players, but they can be used as "templates".  
-For example, if you find a human player's certain serve is hard to return, you can find a similar one in these drills and customize it to be as close to that serve as possible. Then you can practice against it until you can beat it reliably!
+For example, if you find a human player's certain serve is hard to return, you can find a similar one in these drills and customize it to be as close to that serve as possible. Then you can practice against it until you can beat it reliably!  
 
 ## How to use
+
+### Cloud way (recommended)
+
+In Eleven Table Tennis:
+
+1. Make sure ball machine isn't active
+1. Menu->settings->debug settings (tree)->cloud settings->ball machine settings
+1. Enter the index (e.g. 4008.1) into the download text box
+1. Press download
+
+These are the two ball machine drills I've uploaded (Use (R) if you hold racket with Right hand):
+
+```
+4008.1 SolidSlime's service return drill + Alex's basic drill (R) + Alex's advanced drill(R)
+4008.2 SolidSlime's service return drill + Alex's basic drill (L) + Alex's advanced drill(L)
+```
+
+### Manual way
 
 Replace the BallLauncherSettings.json in the game's settings folder.
 
@@ -37,6 +45,15 @@ Every drill (except the "random" drills) have limited variations, to help the pl
 On the other hand, the "random" drills have bigger variations, so they can be used to mimic human player behavior.
 
 If you are feeling brave, try enabling several "random" drills at the same time, as well as "shuffle"!
+
+## Tips: Theory
+
+There're tons of helpful youtube videos that teach you how to return serves.
+
+I can also recommend these two pages, which cover a lot of areas that videos seem to miss.
+
+- http://masatenisi.org/english/spin.htm
+- http://4ctt.com/adv/sidespin.htm (pictures might be blocked by adblocker)
 
 ## List of serves
 
